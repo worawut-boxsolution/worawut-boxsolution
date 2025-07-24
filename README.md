@@ -13,8 +13,16 @@ With over 15 years of professional experience in software development, I special
 - 🎯 Strong focus on Clean Architecture and Domain-Driven Design (DDD)
 - 📦 NuGet Author: [BoxCleanArchitectureApiTemplate](https://www.nuget.org/packages/BoxCleanArchitectureApiTemplate/)
 - 🧪 Proficient in building RESTful APIs, CQRS, Unit Testing, Middleware, and Logging
-- ☁️ Interested in building SaaS platforms and API-first systems
-- 🧰 Tech Stack: `.NET 8`, `EF Core`, `CQRS`, `MediatR`, `FluentValidation`, `SQL Server`, `Swagger`, `Serilog`, `Blazor` , `Tailwind CSS` ,`Azure DevOps` , `Git` 
+- ☁️ Interested in building SaaS platforms and API-first systems 
+-  🧰 🛠️ Tech Stack
+- .NET 5/6/7/8 (C#)
+- Clean Architecture, CQRS, SOLID Principles
+- RESTful API, Swagger, EF Core,Dapper
+- SQL Server / Oracle / mysql
+- Blazor (Full stack)
+- CQRS ,MediatR , Serilog ,Swagger
+- Docker (basic), GitHub Actions (CI/CD), Azure Devops
+- Tailwind CSS , Bootstrap
 
 ---
 
