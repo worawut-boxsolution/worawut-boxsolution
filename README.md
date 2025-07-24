@@ -28,8 +28,7 @@ A production-ready Web API starter template with Clean Code and Clean Architectu
 > Install with:
 ```bash
 dotnet new install BoxCleanArchitectureApiTemplate::1.0.0
-
-
+```
 
 ## 🌐 Contact & Socials
 
