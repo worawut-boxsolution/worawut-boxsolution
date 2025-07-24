@@ -14,7 +14,7 @@ With over 15 years of professional experience in software development, I special
 - 📦 NuGet Author: [BoxCleanArchitectureApiTemplate](https://www.nuget.org/packages/BoxCleanArchitectureApiTemplate/)
 - 🧪 Proficient in building RESTful APIs, CQRS, Unit Testing, Middleware, and Logging
 - ☁️ Interested in building SaaS platforms and API-first systems
-- 🧰 Tech Stack: `.NET 8`, `EF Core`, `CQRS`, `MediatR`, `FluentValidation`, `SQL Server`, `Swagger`, `Serilog`
+- 🧰 Tech Stack: `.NET 8`, `EF Core`, `CQRS`, `MediatR`, `FluentValidation`, `SQL Server`, `Swagger`, `Serilog`, `Blazor` , `Tailwind CSS` ,`Azure DevOps` , `Git` 
 
 ---
 
@@ -28,3 +28,10 @@ A production-ready Web API starter template with Clean Code and Clean Architectu
 > Install with:
 ```bash
 dotnet new install BoxCleanArchitectureApiTemplate::1.0.0
+
+
+
+## 🌐 Contact & Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/worawut-chaingam-81abb22a7/)  
+📧 worawut.cha@outlook.com 
